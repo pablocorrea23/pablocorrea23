@@ -1,12 +1,12 @@
 
-# ¡Hola! Soy Pablo correa, Fullstack Developer 👨‍💻
+# ¡Hola! Soy Pablo correa, Frontend Developer 👨‍💻
 
 Hola, soy Pablo 👋
-Decidí dedicarme a la programación Fullstack cuando descubrí la pasión por diseñar una página o una App </br>
+Decidí dedicarme a la programación cuando descubrí la pasión por diseñar una página o una App </br>
 y después poder hacerla realidad mediante el código.
 
 
-Me formo como Full Stack Web Developer y estudio en el bootcamp Soy Henry, ahí descubrí el mundo de la programación y mi motivación.
+Me formé como Web Developer y estudio en el bootcamp Soy Henry, ahí descubrí el mundo de la programación y mi motivación.
 
 Actualmente sigo ampliando mis conocimientos sobre programación.
 </br>
