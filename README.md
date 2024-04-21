@@ -6,7 +6,7 @@ Decidí dedicarme a la programación cuando descubrí la pasión por diseñar un
 y después poder hacerla realidad mediante el código.
 
 
-Me formé como Web Developer y estudio en el bootcamp Soy Henry, ahí descubrí el mundo de la programación y mi motivación.
+Me forme como Web Developer, estudie en el bootcamp Soy Henry, ahí descubrí el mundo de la programación y mi motivación.
 
 Actualmente sigo ampliando mis conocimientos sobre programación.
 </br>
