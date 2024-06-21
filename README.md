@@ -1,6 +1,6 @@
 
 # 👨🏻‍💻 About Me:
-Hola! Soy Pablo correa, Frontend Developer 💻<br>Decidí incursionar en la programación cuando descubrí la pasión por diseñar páginas, Apps<br>y después, poder hacerlo realidad mediante el código.<br><br>Comencé estudiando con diferentes cursos de forma autodidacta, y en el bootcamp Soy Henry, ahí descubrí el mundo de la programación y mi motivación.<br><br>Actualmente sigo ampliando mis conocimientos sobre programación cursando la Tecnicatura en Programación en la Universidad<br>Tecnológica Nacional (UTN) de Mendoza.
+Hola! Soy Pablo correa, Frontend Developer 💻<br>Decidí incursionar en la programación cuando descubrí la pasión por diseñar páginas, Apps<br>y después, poder hacerlo realidad mediante el código.<br><br>Comencé estudiando con diferentes cursos de forma autodidacta, y en el bootcamp Soy Henry. Ahí descubrí el mundo de la programación y mi motivación.<br><br>Actualmente sigo ampliando mis conocimientos sobre programación cursando la Tecnicatura en Programación en la Universidad<br>Tecnológica Nacional (UTN) de Mendoza.
 
 
 ## 🌐 Socials:
@@ -25,7 +25,7 @@ Hola! Soy Pablo correa, Frontend Developer 💻<br>Decidí incursionar en la pro
 
 📧 E-mail: pablocorrea34@gmail.com
 
-🖱 Linkedin: https://www.linkedin.com/in/pablo-correa-69a876191/
+🖱 Linkedin: www.linkedin.com/in/correa-pabloc
 
 
 
